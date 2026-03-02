@@ -1,8 +1,5 @@
-💫 About Me
-Hi, I'm Muhammad Mohsin Khan — a passionate Mobile App Developer and AI/ML enthusiast from Bahawalpur, Pakistan.
-I specialize in building cross-platform mobile applications using Flutter & Dart, with hands-on experience in state management solutions including Provider, BLoC, GetX, and Riverpod. I integrate robust backend services using Firebase, Supabase, and REST APIs to deliver seamless user experiences.
-Beyond mobile development, I'm actively expanding into the world of Artificial Intelligence and Machine Learning — working with Python, PyTorch, scikit-learn, Pandas, and NumPy to build intelligent, data-driven solutions. I'm also comfortable with backend development using FastAPI and Flask, and database management across MySQL, PostgreSQL, and SQLite.
-I'm actively looking to collaborate on AI, ML, and DL projects where I can apply my skills in real-world scenarios and continue growing as a developer.
+# 💫 About Me:
+Hi, I'm Muhammad Mohsin Khan — a passionate Mobile App Developer and AI/ML enthusiast from Bahawalpur, Pakistan.<br>I specialize in building cross-platform mobile applications using Flutter & Dart, with hands-on experience in state management solutions including Provider, BLoC, GetX, and Riverpod. I integrate robust backend services using Firebase, Supabase, and REST APIs to deliver seamless user experiences.<br>Beyond mobile development, I'm actively expanding into the world of Artificial Intelligence and Machine Learning — working with Python, PyTorch, scikit-learn, Pandas, and NumPy to build intelligent, data-driven solutions. I'm also comfortable with backend development using FastAPI and Flask, and database management across MySQL, PostgreSQL, and SQLite.<br>I'm actively looking to collaborate on AI, ML, and DL projects where I can apply my skills in real-world scenarios and continue growing as a developer.
 
 
 # 💻 Tech Stack:
@@ -11,6 +8,9 @@ I'm actively looking to collaborate on AI, ML, and DL projects where I can apply
 ![](https://github-readme-stats.vercel.app/api?username=MohsinAzad32&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohsinAzad32&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinAzad32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MohsinAzad32&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohsinAzad32&icon=0&color=0)](https://visitcount.itsvg.in)
